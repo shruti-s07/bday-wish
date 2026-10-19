@@ -34,7 +34,6 @@ const CONFIG = {
       from: "Oishani",
       unlock: "i love oishani",
       paragraphs: [
-        "Hello my wife",
         "You're the best wifey ever",
         "I hope you remain my wife forver",
         "Okay, omg bye",
