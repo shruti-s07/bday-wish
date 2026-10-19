@@ -1,0 +1,5 @@
+# Ensure git never uses Git LFS or text conversions for images in this repository
+*.png -text !filter !diff !merge
+*.jpg -text !filter !diff !merge
+*.jpeg -text !filter !diff !merge
+*.svg -text !filter !diff !merge
